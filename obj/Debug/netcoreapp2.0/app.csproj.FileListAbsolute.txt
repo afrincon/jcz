@@ -1,0 +1,10 @@
+/root/datacz/app/bin/Debug/netcoreapp2.0/app.deps.json
+/root/datacz/app/bin/Debug/netcoreapp2.0/app.runtimeconfig.json
+/root/datacz/app/bin/Debug/netcoreapp2.0/app.runtimeconfig.dev.json
+/root/datacz/app/bin/Debug/netcoreapp2.0/app.dll
+/root/datacz/app/bin/Debug/netcoreapp2.0/app.pdb
+/root/datacz/app/obj/Debug/netcoreapp2.0/app.csproj.CoreCompileInputs.cache
+/root/datacz/app/obj/Debug/netcoreapp2.0/app.AssemblyInfoInputs.cache
+/root/datacz/app/obj/Debug/netcoreapp2.0/app.AssemblyInfo.cs
+/root/datacz/app/obj/Debug/netcoreapp2.0/app.dll
+/root/datacz/app/obj/Debug/netcoreapp2.0/app.pdb
