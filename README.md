@@ -1,3 +1,3 @@
 # jcz
 
-Starter project to implement CI on calzatodo
+Starter project to test calzatodo CI 
