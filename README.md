@@ -1,3 +1,3 @@
 # jcz
 
-Starter project to test calzatodo CI 
+Starter project to test calzatodo CI .Net deployment
